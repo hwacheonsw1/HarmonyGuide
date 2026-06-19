@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>HarmonyGuide Updates</title>
+    <description>HarmonyGuide update feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.1.34</title>
+      <pubDate>Wed, 17 Jun 2026 17:27:13 +0900</pubDate>
+      <enclosure
+      	url="https://github.com/ksw11469/HarmonyGuide/releases/download/1.0.1.34/HarmonyGuideSetup-1.0.1.34.exe"
+      	sparkle:version="1.0.1.34"
+      	sparkle:shortVersionString="1.0.1.34"
+      	sparkle:edSignature="SAqCXeHv2b9BHV/fhuJFJAerRSVVrnL6ofzXrPVH5ZdUy41Ufld5Vct4sKLeiol46xptjmm+hFCjSdfyXcStDw=="
+      	sparkle:os="windows"
+      	length="16642926"
+      	type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
